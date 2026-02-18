@@ -94,3 +94,4 @@ while True:
     elif choice == 4:  # Exit
         print("Thank you for using Smart Quiz System!")
         print("GoodBye!")
+        break
