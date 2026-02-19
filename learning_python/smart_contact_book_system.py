@@ -1,6 +1,5 @@
 # Smart Contact Book System
 
-
 print("-----CONTACT BOOK-----")
 
 # Create Menu
